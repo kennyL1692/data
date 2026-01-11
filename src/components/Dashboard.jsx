@@ -90,7 +90,7 @@ export default function Dashboard() {
     return (
         <div className="dashboard">
             <header className="dashboard-header">
-                <h1 className="dashboard-title">Medical Charges Dashboard</h1>
+                <h1 className="dashboard-title">Medical Charges Dashboard V2</h1>
                 <p className="dashboard-subtitle">
                     Interactive visualization of medical insurance cost data
                 </p>
