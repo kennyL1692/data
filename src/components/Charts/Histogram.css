@@ -1,0 +1,16 @@
+.histogram-bar {
+    cursor: pointer;
+    transition: opacity var(--transition-fast);
+    stroke: rgba(255, 255, 255, 0.2);
+    stroke-width: 1;
+}
+
+.category-line {
+    pointer-events: none;
+}
+
+.category-label {
+    font-family: var(--font-family);
+    font-weight: 600;
+    pointer-events: none;
+}

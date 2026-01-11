@@ -1,0 +1,14 @@
+.bar {
+    cursor: pointer;
+    transition: opacity var(--transition-fast);
+    stroke: rgba(255, 255, 255, 0.2);
+    stroke-width: 1;
+}
+
+.value-label {
+    fill: var(--color-text-primary);
+    font-size: 0.75rem;
+    font-weight: 600;
+    font-family: var(--font-family);
+    pointer-events: none;
+}
